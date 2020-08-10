@@ -1,0 +1,7 @@
+{
+  "name": "Orin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
