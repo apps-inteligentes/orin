@@ -1,7 +1,7 @@
 {
   "name": "Orin",
   "integrations": {
-    "capacitor": {}
+    "cordova": {}
   },
   "type": "angular"
 }
